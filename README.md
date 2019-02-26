@@ -9,9 +9,8 @@ Our mission is to build and launch a can-sized atmospheric probe, which will be 
 SobieskiSat is a complex project that requires work in many fields including software, electronics, 3D-Design. That's why we divied this repository into a few directories:
   - ['docs'](docs/) - project documentation
   - ['gerber'](gerber/) - PCB gerber files
-  - ['graphics'](grapics/) - graphical design
+  - ['logs'](logs/) - test flights logs
   - ['models'](models/) - 3D designs
-  - ['diagrams'](diagrams/) - visual conecpts design
   
  ## Follow our project
  You can follow us on [facebook](https://www.facebook.com/SobieskiSat/) or visit our website <https://sobieskisat.pl/en/>
